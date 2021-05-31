@@ -1,0 +1,19 @@
+{
+  "name": "yalotest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "bluebird": "^3.7.2",
+    "csv-parse": "^4.15.4",
+    "csv-parser": "^3.0.0",
+    "neat-csv": "^6.0.1",
+    "node-csv": "^0.1.2"
+  }
+}
